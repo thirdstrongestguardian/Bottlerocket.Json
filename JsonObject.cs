@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace BottleRocket.Json
+namespace MoonStorm.Json
 {
 	public class JsonObject
 		: JsonValue

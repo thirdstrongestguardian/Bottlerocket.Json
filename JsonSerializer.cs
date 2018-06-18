@@ -1,9 +1,9 @@
 ﻿using System;
 using System.Reflection;
 using System.Text.RegularExpressions;
-using BottleRocket;
+using MoonStorm;
 
-namespace BottleRocket.Json
+namespace MoonStorm.Json
 {
 	public class JsonSerializer
 	{

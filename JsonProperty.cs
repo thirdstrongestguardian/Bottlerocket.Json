@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Text.RegularExpressions;
 
-namespace BottleRocket.Json
+namespace MoonStorm.Json
 {
 	public class JsonProperty
 	{

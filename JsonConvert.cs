@@ -1,6 +1,6 @@
 using System;
 
-namespace BottleRocket.Json
+namespace MoonStorm.Json
 {
 	public static class JsonConvert
 	{

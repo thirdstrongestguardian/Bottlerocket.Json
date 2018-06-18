@@ -1,4 +1,4 @@
-﻿namespace BottleRocket.Json
+﻿namespace MoonStorm.Json
 {
 	public class JsonSerializerOptions
 	{

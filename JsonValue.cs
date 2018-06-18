@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace BottleRocket.Json
+namespace MoonStorm.Json
 {
 	public abstract class JsonValue
 	{
